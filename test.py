@@ -10,3 +10,6 @@ def mul(a,b):
 
 def sub(a,b):
     return a/b
+
+def hello(a,b):
+    print("hello")
