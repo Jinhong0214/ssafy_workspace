@@ -1,4 +1,5 @@
 def add(a,b):
+    print("hello")
     return a+b
 
 def sub(a,b):
